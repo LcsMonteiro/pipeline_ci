@@ -1,4 +1,4 @@
-# PipelineCi
+# PipelineCi Elixir
 
 To start your Phoenix server:
 
@@ -17,3 +17,13 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+Tarefas
+1. Pesquisar sobre Cache de Pipeline CI
+https://docs.github.com/pt/actions/using-workflows/caching-dependencies-to-speed-up-workflows
+
+2. Pesquisar o que e o actions Erlef/elixir
+https://github.com/erlef/setup-beam
+
+3. Pesquisar como funciona os triggers do GithubActions
+https://www.zup.com.br/blog/workflows-no-github-actions
